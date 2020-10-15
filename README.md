@@ -1,2 +1,4 @@
 # hello-world
-learning GitHub
+## learning GitHub
+create new branch
+commit changes
